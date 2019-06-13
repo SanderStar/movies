@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.movies",
+        "description": "Movies",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#movies-Display",
+        "navigationComponentName": "opensap.movies",
+        "intentSemanticObject": "movies",
+        "intentAction": "Display",
+        "html5ApplicationName": "movies",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "6bb20a9b-14b3-4269-a3b0-9cdf7502a3c9-1430485853246"
+        ],
+        "contentPackages": [
+            "6575e127-049f-4d8e-a7a1-56778ac42a74-1430485797484"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Movies",
+        "subtitle": "open.sap (log)",
+        "searchKeywords": "Movies,open.sap (log)",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
